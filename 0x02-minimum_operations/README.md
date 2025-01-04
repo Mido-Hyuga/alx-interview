@@ -1,4 +1,4 @@
-# 0x03. Minimum Operations
+# 0x02. Minimum Operations
 ## Requirements
 ### General
 - Allowed editors: vi, vim, emacs
@@ -18,5 +18,5 @@ In a text file, there is a single character H. Your text editor can execute only
 n = 9
 H => Copy All => Paste => HH => Paste =>HHH => Copy All => Paste => HHHHHH => Paste => HHHHHHHHH
 Number of operations: 6
-#### Twitter: [Jorge Chaux Jr](https://twitter.com/jorgechauxjr)
-#### Medium: [Jorge Chaux Jr](https://medium.com/@jorgechauxjr)
+#### Twitter: [Bouslam El Mehdi](https://twitter.com/BouslamElmehdi)
+#### Instagram: [Bouslam El Mehdi](https://www.instagram.com/elmehdihyuga/)
